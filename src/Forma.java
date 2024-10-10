@@ -1,3 +1,8 @@
+/**
+ * Nome: Diego Garcia Perez Biguette
+ * RA: 1424
+ */
+
 public class Forma {
     private Cor cor;
     private String posicao;
